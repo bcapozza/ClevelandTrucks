@@ -1,0 +1,191 @@
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+
+<h3>Runners</h3>
+
+<table border="1">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Location</th>
+			<th>DM#</th>
+			<th>ETA</th>
+		</tr>
+	</thead>
+	
+
+
+
+	<tbody>
+		<!-- Name Location DM# ETA -->
+		<tr>
+			<th>Robert Wooley</th>
+			<th>Shadyside OH</th>
+			<th>16</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>John Duhon</th>
+			<th>Jefferson OH</th>
+			<th>1</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Leroy Long</th>
+			<th>Cleveland OH</th>
+			<th>9</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>John Mullins</th>
+			<th>Cleveland OH</th>
+			<th>1</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Theodore Walden</th>
+			<th>Canton OH</th>
+			<th>9</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Vernon Heath</th>
+			<th>Canton OH</th>
+			<th>9</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Duane Dunn</th>
+			<th>Jefferson OH</th>
+			<th>8</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Bryan Dunlap</th>
+			<th>Cleveland OH</th>
+			<th>5</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Jeff Martin</th>
+			<th>Cleveland OH</th>
+			<th>11</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Bernard Dembowski</th>
+			<th>Carrolton OH</th>
+			<th>10</th>
+			<th>7am</th>
+		</tr>
+		<tr>
+			<th>Dickie Babson</th>
+			<th>Canton OH</th>
+			<th>8</th>
+			<th>TBD</th>
+		</tr>
+	</tbody>
+</table>
+
+
+
+<h3>Home</h3>
+
+<table border="1">
+	<thead>
+		<tr>
+			<th>Name</th>
+			<th>Location</th>
+			<th>DM#</th>
+			<th>ETA</th>
+		</tr>
+	</thead>
+	
+
+
+
+	<tbody>
+		<!-- Name Location DM# ETA Destination -->
+		<tr>
+			<th>Verland Cecil</th>
+			<th>Shadyside OH</th>
+			<th>8</th>
+			<th>SC</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Michael Krnaich</th>
+			<th>Shadyside OH</th>
+			<th>12</th>
+			<th>WV</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Timothy Mott</th>
+			<th>Warren OH</th>
+			<th>14</th>
+			<th>Pitt</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Robert Rauch</th>
+			<th>Malvern OH</th>
+			<th>16</th>
+			<th>NJ</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Bradley Clapper</th>
+			<th>Cleveland OH</th>
+			<th>11</th>
+			<th>TN</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Michael Krnaich</th>
+			<th>Shadyside OH</th>
+			<th>12</th>
+			<th>WV</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Brian Kinney</th>
+			<th>Jefferson OH</th>
+			<th>8</th>
+			<th>Pitt</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Jordan Johnson</th>
+			<th>Jefferson OH</th>
+			<th>16</th>
+			<th>OH</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>William Frederick</th>
+			<th>Canton OH</th>
+			<th>1</th>
+			<th>IN</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Gregory Cox</th>
+			<th>Canton OH</th>
+			<th>8</th>
+			<th>Pitt</th>
+			<th>TBD</th>
+		</tr>
+		<tr>
+			<th>Michael Quinones</th>
+			<th>Canton OH</th>
+			<th>7</th>
+			<th>GA</th>
+			<th>TBD</th>
+		</tr>
+
+	</tbody>
+</table>
